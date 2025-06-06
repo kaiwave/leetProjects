@@ -6,11 +6,53 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		823D028C2DF2B89400DF8D0F /* Info */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info; sourceTree = "<group>"; };
+		823D028E2DF2B89400DF8D0F /* Info */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info; sourceTree = "<group>"; };
+		823D02902DF2B89400DF8D0F /* leetProjects.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = leetProjects.xcodeproj; sourceTree = "<group>"; };
+		823D02912DF2B89400DF8D0F /* Info */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info; sourceTree = "<group>"; };
+		823D02932DF2B89400DF8D0F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		820859192DF2B220003918D4 = {
 			isa = PBXGroup;
 			children = (
+				823D028D2DF2B89400DF8D0F /* Easy */,
+				823D028F2DF2B89400DF8D0F /* Hard */,
+				823D02902DF2B89400DF8D0F /* leetProjects.xcodeproj */,
+				823D02922DF2B89400DF8D0F /* Medium */,
+				823D02932DF2B89400DF8D0F /* README.md */,
 			);
+			sourceTree = "<group>";
+		};
+		823D028D2DF2B89400DF8D0F /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				823D028C2DF2B89400DF8D0F /* Info */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		823D028F2DF2B89400DF8D0F /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+				823D028E2DF2B89400DF8D0F /* Info */,
+			);
+			path = Hard;
+			sourceTree = "<group>";
+		};
+		823D02922DF2B89400DF8D0F /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				823D02912DF2B89400DF8D0F /* Info */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
+		823D02942DF2B89400DF8D0F /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -33,6 +75,12 @@
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 823D02942DF2B89400DF8D0F /* Products */;
+					ProjectRef = 823D02902DF2B89400DF8D0F /* leetProjects.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 			);
