@@ -16,6 +16,8 @@
 		823D02972DF2B90E00DF8D0F /* palindromeNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = palindromeNumber.cpp; sourceTree = "<group>"; };
 		823D02982DF2B90E00DF8D0F /* runningSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = runningSum.cpp; sourceTree = "<group>"; };
 		823D02992DF2B90E00DF8D0F /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
+		823D029A2DF2BA1E00DF8D0F /* validParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = validParentheses.cpp; sourceTree = "<group>"; };
+		823D029D2DF3CF9600DF8D0F /* romanNums.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = romanNums.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -33,6 +35,8 @@
 		823D028D2DF2B89400DF8D0F /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				823D029D2DF3CF9600DF8D0F /* romanNums.cpp */,
+				823D029A2DF2BA1E00DF8D0F /* validParentheses.cpp */,
 				823D02962DF2B90E00DF8D0F /* longestCommonPrefix.cpp */,
 				823D02972DF2B90E00DF8D0F /* palindromeNumber.cpp */,
 				823D02982DF2B90E00DF8D0F /* runningSum.cpp */,
