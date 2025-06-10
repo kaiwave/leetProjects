@@ -18,6 +18,11 @@
 		823D02992DF2B90E00DF8D0F /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
 		823D029A2DF2BA1E00DF8D0F /* validParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = validParentheses.cpp; sourceTree = "<group>"; };
 		823D029D2DF3CF9600DF8D0F /* romanNums.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = romanNums.cpp; sourceTree = "<group>"; };
+		828FEABF2DF6BD9500A8E629 /* firstOccurence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = firstOccurence.cpp; sourceTree = "<group>"; };
+		828FEAC02DF6BD9500A8E629 /* lengthLastWord.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lengthLastWord.cpp; sourceTree = "<group>"; };
+		828FEAC12DF6BD9500A8E629 /* searchInsertPosition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = searchInsertPosition.cpp; sourceTree = "<group>"; };
+		828FEAC22DF6BD9500A8E629 /* sqrtApprox.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sqrtApprox.cpp; sourceTree = "<group>"; };
+		828FEAC32DF6BD9900A8E629 /* pascalsTriangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pascalsTriangle.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -35,6 +40,11 @@
 		823D028D2DF2B89400DF8D0F /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				828FEAC32DF6BD9900A8E629 /* pascalsTriangle.cpp */,
+				828FEABF2DF6BD9500A8E629 /* firstOccurence.cpp */,
+				828FEAC02DF6BD9500A8E629 /* lengthLastWord.cpp */,
+				828FEAC12DF6BD9500A8E629 /* searchInsertPosition.cpp */,
+				828FEAC22DF6BD9500A8E629 /* sqrtApprox.cpp */,
 				823D029D2DF3CF9600DF8D0F /* romanNums.cpp */,
 				823D029A2DF2BA1E00DF8D0F /* validParentheses.cpp */,
 				823D02962DF2B90E00DF8D0F /* longestCommonPrefix.cpp */,
