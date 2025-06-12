@@ -25,6 +25,7 @@
 		828FEAC12DF6BD9500A8E629 /* searchInsertPosition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = searchInsertPosition.cpp; sourceTree = "<group>"; };
 		828FEAC22DF6BD9500A8E629 /* sqrtApprox.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sqrtApprox.cpp; sourceTree = "<group>"; };
 		828FEAC32DF6BD9900A8E629 /* pascalsTriangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pascalsTriangle.cpp; sourceTree = "<group>"; };
+		82B990D22DFA91EE004F27CA /* majorityElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = majorityElement.cpp; sourceTree = "<group>"; };
 		82DA9B832DF935DB00BCF8D7 /* binarySum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binarySum.cpp; sourceTree = "<group>"; };
 		82DA9B842DF935E200BCF8D7 /* profitMaxxing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = profitMaxxing.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -44,6 +45,7 @@
 		823D028D2DF2B89400DF8D0F /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				82B990D22DFA91EE004F27CA /* majorityElement.cpp */,
 				82DA9B842DF935E200BCF8D7 /* profitMaxxing.cpp */,
 				82DA9B832DF935DB00BCF8D7 /* binarySum.cpp */,
 				820DBD9A2DF90D9A009165D9 /* removeDuplicatesList.cpp */,
