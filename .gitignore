@@ -2,7 +2,8 @@
 .DS_Store
 
 # Xcode project files
-*.xcodeproj
+*.xcuserdata
+*.xcuserstate
 
 # Visual Studio
 .vs/
