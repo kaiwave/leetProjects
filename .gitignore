@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Xcode project files
+*.xcodeproj
+
+# Visual Studio
+.vs/
