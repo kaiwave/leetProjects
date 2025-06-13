@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		820DBD972DF9097C009165D9 /* removeDuplicatesArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = removeDuplicatesArray.cpp; sourceTree = "<group>"; };
 		820DBD9A2DF90D9A009165D9 /* removeDuplicatesList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = removeDuplicatesList.cpp; sourceTree = "<group>"; };
+		823B19D52DFBE44700BD481B /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		823D028C2DF2B89400DF8D0F /* Info */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info; sourceTree = "<group>"; };
 		823D028E2DF2B89400DF8D0F /* Info */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info; sourceTree = "<group>"; };
 		823D02902DF2B89400DF8D0F /* leetProjects.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = leetProjects.xcodeproj; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 		823D028D2DF2B89400DF8D0F /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				823B19D52DFBE44700BD481B /* test.m */,
 				82DDA0692DFBDAC700F34933 /* validPalindrome.cpp */,
 				82B990D22DFA91EE004F27CA /* majorityElement.cpp */,
 				82DA9B842DF935E200BCF8D7 /* profitMaxxing.cpp */,
