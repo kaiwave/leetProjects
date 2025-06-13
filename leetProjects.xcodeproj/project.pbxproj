@@ -28,6 +28,7 @@
 		82B990D22DFA91EE004F27CA /* majorityElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = majorityElement.cpp; sourceTree = "<group>"; };
 		82DA9B832DF935DB00BCF8D7 /* binarySum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binarySum.cpp; sourceTree = "<group>"; };
 		82DA9B842DF935E200BCF8D7 /* profitMaxxing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = profitMaxxing.cpp; sourceTree = "<group>"; };
+		82DDA0692DFBDAC700F34933 /* validPalindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = validPalindrome.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -45,6 +46,7 @@
 		823D028D2DF2B89400DF8D0F /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				82DDA0692DFBDAC700F34933 /* validPalindrome.cpp */,
 				82B990D22DFA91EE004F27CA /* majorityElement.cpp */,
 				82DA9B842DF935E200BCF8D7 /* profitMaxxing.cpp */,
 				82DA9B832DF935DB00BCF8D7 /* binarySum.cpp */,
