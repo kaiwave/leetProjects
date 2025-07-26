@@ -4,7 +4,6 @@ class Solution {
 public:
   string longestCommonPrefix(vector<string>& strs) {
     int strsLength = strs.size();
-    int wordLength = 0;
     string firstWord = strs[0];
     char letter = firstWord[0];
     string ans = "";
