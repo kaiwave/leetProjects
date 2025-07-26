@@ -2,7 +2,9 @@
 
 impl Solution {
   pub fn longest_common_prefix(strs: Vec<String>) -> String {
-    if strs.is_empty() { return String::new(); }
+    if strs.is_empty() { 
+      return String::new();
+    }
 
     let strs_chars: Vec<Vec<char>> = strs.iter().map(|s| s.chars().collect()).collect();
     let first_word = &strs_chars[0];
@@ -17,7 +19,6 @@ impl Solution {
       }
       ans.push(letter);
     }
-
     ans
   }
 }
