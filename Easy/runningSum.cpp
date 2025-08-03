@@ -1,9 +1,5 @@
 // Problem 1480 :o
 
-#include<iostream>
-#include<cstdlib>
-using namespace std;
-
 class Solution {
 public:
   vector<int> runningSum(vector<int>& nums) {
@@ -13,9 +9,4 @@ public:
       ans[i] = ans[i-1] + nums[i];
     return ans;
     }
-};
-
-int main(){
-  
-  return 0;
 };
